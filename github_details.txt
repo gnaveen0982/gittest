@@ -1,0 +1,10 @@
+github
+https://github.com
+repo url
+https://github.com/gnaveen0982/gittest.git
+
+
+
+user Name: gnaveen0982
+password: nav1git
+
